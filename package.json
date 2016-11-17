@@ -1,0 +1,20 @@
+{
+  "name": "moment",
+  "version": "0.1.0",
+  "description": "Comparte tus momentos en la nube",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "momentos",
+    "fotos",
+    "moments",
+    "curso"
+  ],
+  "author": "Miguel Angel Arroyo",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
